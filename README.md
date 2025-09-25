@@ -1,2 +1,2 @@
-# Deep-Learning-in-Biomedical-Optical-Imaging
+# NTHU_2025_DLBOI
 Homework
